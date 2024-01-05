@@ -13,6 +13,7 @@ The structure of our source code's repository is as follows:
     - eval.py: contains source code for evaluating
     - util_loss.py: contains source code for utility functions
     - dataset_prep.py: contains source code for data preprocessing
+    - ablation_eval.py: contains source code for our ablation study
 
 
 ## Installation
@@ -69,7 +70,7 @@ With at least a suitable checkpoint in the 'models' folder:
 ```
 python eval.py {pretrained_model_name} {1 to use threshold, 0 to not} {loss_function_names, separated by a blank space}
 # For example:
-python src/eval.py bert_base 0 BCE
+python src/eval.py bert_base 0 BCE DBloss
 ```
 This will generate a `.xlsx` file with the corresponding model name.
 
@@ -96,7 +97,6 @@ bash scripts/rq2_electra.sh
 ```
 
 ### RQ3
-To replicate the result of LEGION:
 ```
 bash scripts/rq3.sh
 ```
