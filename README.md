@@ -1,6 +1,6 @@
 # LEGION
 
-"*LEGION: Harnessing Pre-trained Language Models for GitHub Topic Recommendations with Distribution-Balance Loss*" (EASE 2024)
+"*LEGION: Harnessing Pre-trained Language Models for GitHub Topic Recommendations with Distribution-Balance Loss*" (Submitted to EASE 2024)
 
 by .
 
