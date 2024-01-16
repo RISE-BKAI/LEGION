@@ -76,7 +76,7 @@ This will generate a `.xlsx` file with the corresponding model name.
 
 
 ## RQ Replication
-To best replicate the result of our experiments, you can download the finetuned models from our [replication package](), put them in the 'models' folder within this repository, then run only evaluation. The instructions below will finetune the pretrained models before evaluating them.
+To best replicate the result of our experiments, you can download the finetuned models from our [replication package](https://figshare.com/s/6e01956fbfcd9b7ca6de), put them in the 'models' folder within this repository, then run only evaluation. The instructions below will finetune the pretrained models before evaluating them.
 
 ### RQ1
 Each pre-trained model has its own script:
