@@ -9,7 +9,7 @@ from torch.utils.data import Dataset, DataLoader
 
 
 # Data config
-source_dir = '../'
+source_dir = './'
 suffix = 'rand123'
 labels_ref=pickle.load(open(os.path.join(source_dir, 'data', 'labels_ref.'+suffix),'rb'))
 class_freq=pickle.load(open(os.path.join(source_dir, 'data', 'class_freq.'+suffix),'rb'))
