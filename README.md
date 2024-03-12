@@ -1,8 +1,13 @@
-# LEGION
+# ⚙️LEGION⚙️
+*by Yen-Trang Dang, Thanh Le-Cong, Phuc-Thanh Nguyen, Anh M. T. Bui, Phuong T. Nguyen, Bach Le, Quyet-Thang Huynh*
+<p align="center">
+    <a href="https://conf.researchr.org/details/ease-2024/ease-2024-papers/1/LEGION-Harnessing-Pre-trained-Language-Models-for-GitHub-Topic-Recommendations-with-"><img src="https://img.shields.io/badge/Conference-EASE 2024-green?style=for-the-badge">
+    <a href="https://arxiv.org/abs/2403.05873"><img src="https://img.shields.io/badge/arXiv-2403.05873-b31b1b.svg?style=for-the-badge">
+    <br>
+    <a href="https://figshare.com/s/6e01956fbfcd9b7ca6de"><img src="https://img.shields.io/badge/Replication-Figshare/6e01956fbfcd9b7ca6de-blue?style=for-the-badge">
+</p>
 
-"*LEGION: Harnessing Pre-trained Language Models for GitHub Topic Recommendations with Distribution-Balance Loss*" (Accepted by EASE 2024)
-
-by Yen-Trang Dang, Thanh Le-Cong, Phuc-Thanh Nguyen, Anh M. T. Bui, Phuong T. Nguyen, Bach Le, Quyet-Thang Huynh.
+Welcome to the source code repo of **LEGION**, an LLM-based GitHub Topic Recommendation tool introduced in our paper "Harnessing Pre-trained Language Models for GitHub Topic Recommendations with Distribution-Balance Loss" at EASE'24! 
 
 ## Repository Organization
 The structure of our source code's repository is as follows:
