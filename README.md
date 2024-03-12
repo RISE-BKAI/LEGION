@@ -115,7 +115,7 @@ bash scripts/rq4.sh
 If you use our tool, please cite our paper as follows:
 
 ```
-@inproceedings{le2022autopruner,
+@inproceedings{dang2024legion,
   title={LEGION: Harnessing Pre-trained Language Models for GitHub Topic Recommendations with Distribution-Balance Loss},
   author={Yen-Trang Dang, Thanh Le-Cong, Phuc-Thanh Nguyen, Anh M. T. Bui, Phuong T. Nguyen, Bach Le, Quyet-Thang Huynh},
   booktitle={Proceedings of the 24th International Conference on Evaluation and Assessment in Software Engineering (EASE)},
