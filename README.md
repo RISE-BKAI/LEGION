@@ -7,7 +7,7 @@
     <a href="https://figshare.com/s/6e01956fbfcd9b7ca6de"><img src="https://img.shields.io/badge/Replication-Figshare/6e01956fbfcd9b7ca6de-blue?style=for-the-badge">
 </p>
 
-Welcome to the source code repo of **LEGION**, an LLM-based GitHub Topic Recommendation tool introduced in our paper "Harnessing Pre-trained Language Models for GitHub Topic Recommendations with Distribution-Balance Loss" at EASE'24! 
+Welcome to the source code repo of **LEGION**, an LLM-based GitHub Topic Recommendation tool introduced in our paper "LEGION: Harnessing Pre-trained Language Models for GitHub Topic Recommendations with Distribution-Balance Loss" at EASE'24! 
 
 ## Repository Organization
 The structure of our source code's repository is as follows:
@@ -110,3 +110,16 @@ bash scripts/rq3.sh
 ```
 bash scripts/rq4.sh
 ```
+
+## 📜 Citation
+If you use our tool, please cite our paper as follows:
+
+```
+@inproceedings{le2022autopruner,
+  title={LEGION: Harnessing Pre-trained Language Models for GitHub Topic Recommendations with Distribution-Balance Loss},
+  author={Yen-Trang Dang, Thanh Le-Cong, Phuc-Thanh Nguyen, Anh M. T. Bui, Phuong T. Nguyen, Bach Le, Quyet-Thang Huynh},
+  booktitle={Proceedings of the 24th International Conference on Evaluation and Assessment in Software Engineering (EASE)},
+  year={2024}
+}
+```
+
