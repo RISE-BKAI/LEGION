@@ -4,7 +4,7 @@
     <a href="https://conf.researchr.org/details/ease-2024/ease-2024-papers/1/LEGION-Harnessing-Pre-trained-Language-Models-for-GitHub-Topic-Recommendations-with-"><img src="https://img.shields.io/badge/Conference-EASE 2024-green?style=for-the-badge">
     <a href="https://arxiv.org/abs/2403.05873"><img src="https://img.shields.io/badge/arXiv-2403.05873-b31b1b.svg?style=for-the-badge">
     <br>
-    <a href="https://figshare.com/s/6e01956fbfcd9b7ca6de"><img src="https://img.shields.io/badge/Replication-Figshare/6e01956fbfcd9b7ca6de-blue?style=for-the-badge">
+    <a href="10.6084/m9.figshare.24964698"><img src="https://img.shields.io/badge/Replication-figshare.24964698-blue?style=for-the-badge">
 </p>
 
 Welcome to the source code repo of **LEGION**, an LLM-based GitHub Topic Recommendation tool introduced in our paper "LEGION: Harnessing Pre-trained Language Models for GitHub Topic Recommendations with Distribution-Balance Loss" at EASE'24! 
